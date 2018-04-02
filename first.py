@@ -1,2 +1,2 @@
-# 你好的功能1
-# 你好的功能2
+#class object:
+#sjjkl
